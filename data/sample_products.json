@@ -1,0 +1,222 @@
+[
+    {
+        "name": "Traditional Gold Necklace Set",
+        "category": "Necklaces",
+        "metal_type": "Gold",
+        "price": 45000,
+        "occasion": "Wedding",
+        "style": "Traditional",
+        "image_url": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=400",
+        "description": "Exquisite traditional gold necklace set perfect for weddings and special occasions",
+        "popularity": 95
+    },
+    {
+        "name": "Diamond Solitaire Ring",
+        "category": "Rings",
+        "metal_type": "Platinum",
+        "price": 85000,
+        "occasion": "Engagement",
+        "style": "Modern",
+        "image_url": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=400",
+        "description": "Stunning platinum solitaire ring with brilliant cut diamond",
+        "popularity": 98
+    },
+    {
+        "name": "Silver Minimalist Earrings",
+        "category": "Earrings",
+        "metal_type": "Silver",
+        "price": 3500,
+        "occasion": "Daily Wear",
+        "style": "Minimalist",
+        "image_url": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=400",
+        "description": "Elegant minimalist silver earrings for everyday elegance",
+        "popularity": 87
+    },
+    {
+        "name": "Rose Gold Bracelet",
+        "category": "Bracelets",
+        "metal_type": "Rose Gold",
+        "price": 28000,
+        "occasion": "Gift",
+        "style": "Contemporary",
+        "image_url": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=400",
+        "description": "Beautiful rose gold bracelet with intricate design",
+        "popularity": 82
+    },
+    {
+        "name": "Gold Traditional Bangles Set",
+        "category": "Bangles",
+        "metal_type": "Gold",
+        "price": 55000,
+        "occasion": "Wedding",
+        "style": "Traditional",
+        "image_url": "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?w=400",
+        "description": "Set of 6 traditional gold bangles with ethnic patterns",
+        "popularity": 91
+    },
+    {
+        "name": "Diamond Stud Earrings",
+        "category": "Earrings",
+        "metal_type": "Diamond",
+        "price": 42000,
+        "occasion": "Anniversary",
+        "style": "Modern",
+        "image_url": "https://images.unsplash.com/photo-1596944924616-7b38e7cfac36?w=400",
+        "description": "Classic diamond stud earrings in white gold setting",
+        "popularity": 94
+    },
+    {
+        "name": "Silver Vintage Pendant",
+        "category": "Pendants",
+        "metal_type": "Silver",
+        "price": 8500,
+        "occasion": "Daily Wear",
+        "style": "Vintage",
+        "image_url": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=400",
+        "description": "Antique-inspired silver pendant with filigree work",
+        "popularity": 76
+    },
+    {
+        "name": "Gold Chain Necklace",
+        "category": "Chains",
+        "metal_type": "Gold",
+        "price": 35000,
+        "occasion": "Daily Wear",
+        "style": "Modern",
+        "image_url": "https://images.unsplash.com/photo-1601121141461-9d6647bca1ed?w=400",
+        "description": "Sleek gold chain necklace for everyday wear",
+        "popularity": 88
+    },
+    {
+        "name": "Platinum Wedding Band",
+        "category": "Rings",
+        "metal_type": "Platinum",
+        "price": 32000,
+        "occasion": "Wedding",
+        "style": "Minimalist",
+        "image_url": "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=400",
+        "description": "Simple and elegant platinum wedding band",
+        "popularity": 90
+    },
+    {
+        "name": "Traditional Gold Earrings",
+        "category": "Earrings",
+        "metal_type": "Gold",
+        "price": 18000,
+        "occasion": "Festival",
+        "style": "Traditional",
+        "image_url": "https://images.unsplash.com/photo-1630019852942-f89202989a59?w=400",
+        "description": "Beautiful traditional gold earrings with temple design",
+        "popularity": 85
+    },
+    {
+        "name": "Diamond Tennis Bracelet",
+        "category": "Bracelets",
+        "metal_type": "Diamond",
+        "price": 125000,
+        "occasion": "Anniversary",
+        "style": "Modern",
+        "image_url": "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=400",
+        "description": "Luxurious diamond tennis bracelet with brilliant stones",
+        "popularity": 96
+    },
+    {
+        "name": "Silver Contemporary Ring",
+        "category": "Rings",
+        "metal_type": "Silver",
+        "price": 5500,
+        "occasion": "Daily Wear",
+        "style": "Contemporary",
+        "image_url": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=400",
+        "description": "Modern silver ring with geometric design",
+        "popularity": 79
+    },
+    {
+        "name": "Gold Anniversary Necklace",
+        "category": "Necklaces",
+        "metal_type": "Gold",
+        "price": 62000,
+        "occasion": "Anniversary",
+        "style": "Traditional",
+        "image_url": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=400",
+        "description": "Elegant gold necklace perfect for anniversary celebrations",
+        "popularity": 89
+    },
+    {
+        "name": "Rose Gold Minimalist Ring",
+        "category": "Rings",
+        "metal_type": "Rose Gold",
+        "price": 12000,
+        "occasion": "Gift",
+        "style": "Minimalist",
+        "image_url": "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=400",
+        "description": "Delicate rose gold ring with minimalist design",
+        "popularity": 83
+    },
+    {
+        "name": "Diamond Pendant Necklace",
+        "category": "Pendants",
+        "metal_type": "Diamond",
+        "price": 78000,
+        "occasion": "Birthday",
+        "style": "Modern",
+        "image_url": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=400",
+        "description": "Stunning diamond pendant on white gold chain",
+        "popularity": 92
+    },
+    {
+        "name": "Traditional Silver Bangles",
+        "category": "Bangles",
+        "metal_type": "Silver",
+        "price": 15000,
+        "occasion": "Festival",
+        "style": "Traditional",
+        "image_url": "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?w=400",
+        "description": "Set of traditional silver bangles with oxidized finish",
+        "popularity": 81
+    },
+    {
+        "name": "Gold Modern Bracelet",
+        "category": "Bracelets",
+        "metal_type": "Gold",
+        "price": 38000,
+        "occasion": "Gift",
+        "style": "Modern",
+        "image_url": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=400",
+        "description": "Contemporary gold bracelet with sleek design",
+        "popularity": 86
+    },
+    {
+        "name": "Platinum Diamond Earrings",
+        "category": "Earrings",
+        "metal_type": "Platinum",
+        "price": 95000,
+        "occasion": "Wedding",
+        "style": "Modern",
+        "image_url": "https://images.unsplash.com/photo-1596944924616-7b38e7cfac36?w=400",
+        "description": "Exquisite platinum earrings with diamond clusters",
+        "popularity": 93
+    },
+    {
+        "name": "Vintage Gold Pendant",
+        "category": "Pendants",
+        "metal_type": "Gold",
+        "price": 22000,
+        "occasion": "Daily Wear",
+        "style": "Vintage",
+        "image_url": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=400",
+        "description": "Vintage-inspired gold pendant with intricate detailing",
+        "popularity": 77
+    },
+    {
+        "name": "Silver Chain Bracelet",
+        "category": "Chains",
+        "metal_type": "Silver",
+        "price": 6500,
+        "occasion": "Daily Wear",
+        "style": "Minimalist",
+        "image_url": "https://images.unsplash.com/photo-1601121141461-9d6647bca1ed?w=400",
+        "description": "Simple silver chain bracelet for everyday style",
+        "popularity": 74
+    }
+]
