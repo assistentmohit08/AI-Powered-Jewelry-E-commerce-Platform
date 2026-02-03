@@ -5,7 +5,11 @@ import axios from 'axios';
  * Base URL for the API.
  * Defaults to localhost:5000 if not specified in environment variables.
  */
-const API_BASE_URL = process.env.REACT_APP_API_BASE_URL || 'https://jewelry-api.onrender.com/api/chatbot';
+// Automatically append /api/chatbot if not present
+let API_BASE_URL = process.env.REACT_APP_API_BASE_URL || 'https://jewelry-api.onrender.com/api/chatbot';
+if (API_BASE_URL && !API_BASE_URL.endsWith('/api/chatbot')) {
+    API_BASE_URL += '/api/chatbot';
+}
 
 console.log("🔌 API Base URL:", API_BASE_URL); // Debugging log
 
