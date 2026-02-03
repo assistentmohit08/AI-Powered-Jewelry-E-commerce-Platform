@@ -15,6 +15,9 @@
     },
     "scripts": {
         "start": "npx kill-port 3000 && react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject",
         "kill": "npx kill-port 3000",
         "restart": "npm run kill && npm start"
     },
